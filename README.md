@@ -88,5 +88,4 @@
 ###
 
 ![Snake animation](https://github.com/Mohamed00-Hany/Mohamed00-Hany/blob/output/github-contribution-grid-snake.svg)
-
 ###
