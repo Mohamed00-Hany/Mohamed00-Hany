@@ -59,6 +59,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
