@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">Connect  with me :</h3>
+<h3 align="left">Connect with me :</h3>
 
 ###
 
@@ -65,12 +65,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-## 🏆GitHub Trophies
+## 🏆 My Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mohamed00-Hany&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
@@ -87,6 +87,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mohamed00-Hany/Mohamed00-Hany/output/snake.svg](https://github.com/Mohamed00-Hany/Mohamed00-Hany/blob/main/snake.yml)https://github.com/Mohamed00-Hany/Mohamed00-Hany/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mohamed00-Hany/Mohamed00-Hany/blob/main/snake.yml" alt="Snake animation" />
 
 ###
