@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="left">Connect with me</h3>
 
 ###
 
@@ -71,12 +71,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-## 🏆 My Trophies
+<h3 align="left">🏆 My Trophies</h3>
 ![](https://github-profile-trophy.vercel.app/?username=Mohamed00-Hany&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My Stats </h3>
 
 ###
 
