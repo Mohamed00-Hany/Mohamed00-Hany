@@ -87,6 +87,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mohamed00-Hany/Mohamed00-Hany/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/{{Mohamed00-Hany}}/{{Mohamed00-Hany}}/blob/output/github-contribution-grid-snake.svg)
 
 ###
