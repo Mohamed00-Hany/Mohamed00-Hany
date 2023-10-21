@@ -87,6 +87,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mohamed00-Hany/Mohamed00-Hany/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mohamed00-Hany/Mohamed00-Hany/main/snake.svg" alt="Snake animation" />
 
 ###
