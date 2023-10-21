@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">📌 Connect With Me</h3>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language And Tools</h3>
 
 ###
 
