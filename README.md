@@ -27,7 +27,7 @@
 ###
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="300" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 ###
@@ -90,9 +90,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mohamed00-Hany&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-![Snake animation](https://github.com/Mohamed00-Hany/Mohamed00-Hany/blob/output/github-contribution-grid-snake.svg)
-
-###
