@@ -7,7 +7,7 @@
 ###
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Android+Developer;I'm+also+studying+Computer+Science" /></a>
 </p>
 
 ###
@@ -66,7 +66,7 @@
 </div>
 
 ## 🏆GitHub Trophies
-![](https://github-Mohamed00-Hany-trophy.vercel.app/?username=Mohamed00-Hanny&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Mohamed00-Hany&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ###
 
