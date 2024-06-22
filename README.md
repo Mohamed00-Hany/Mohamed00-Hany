@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m student undergraduate<br>- 📚 I'm currently learning Mobile Development</p>
+<p align="left">- 🔭 I’m fresh graduated<br>- 📚 I'm currently learning Mobile Development</p>
 
 ###
 
