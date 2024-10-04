@@ -12,12 +12,6 @@
 
 ###
 
-<a target="_blank" align="center">
-  <img align="right" top="200" height="350" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed00-Hany.Mohamed00-Hany&"  />
 </div>
