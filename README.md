@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <a href="https://mh4260160@gmail.com" target="_blank">
+  <a href="mh4260160@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-hany-2b1966277/" target="_blank">
