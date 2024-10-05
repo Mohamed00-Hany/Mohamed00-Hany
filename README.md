@@ -6,12 +6,6 @@
 
 ###
 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Software+Engineer;I'm+also+Android+Developer" /></a>
-</p>
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed00-Hany.Mohamed00-Hany&"  />
 </div>
