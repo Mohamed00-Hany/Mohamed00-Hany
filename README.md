@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m fresh graduated<br>- 📚 I'm always learning how to develop mobile apps using new technologies</p>
+<p align="left">- 🌱 I’m fresh graduated<br>- 🔭 I'm currently working as Android Developer<br>- 📚 I'm always learning how to develop android apps using new technologies</p>
 
 ###
 
