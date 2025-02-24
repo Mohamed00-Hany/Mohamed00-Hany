@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m fresh graduated<br>- 🔭 I'm currently working as Android Developer<br>- 📚 I'm always learning how to develop android apps using new technologies</p>
+<p align="left">- 🌱 I’m fresh graduated<br>- 🔭 I'm currently working as Android Developer<br>- 📚 I’m always learning and exploring new technologies to develop Android apps, with a strong focus on optimizing performance and ensuring stability</p>
 
 ###
 
