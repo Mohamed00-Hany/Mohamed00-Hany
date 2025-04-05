@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=Mohamed00-Hany&theme=dark&hide_border=false)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamed00-Hany&theme=dark&hide_border=false" height="220" alt="streak graph"  />
 </div>
 
 ###
