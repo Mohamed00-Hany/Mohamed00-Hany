@@ -68,6 +68,28 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
       <br><sub>Hybrid Architecture</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/calendar--v1.png" width="40"/>
+      <br><strong>Booking</strong>
+      <br><sub>Dynamic System</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/cloud-sync.png" width="40"/>
+      <br><strong>SDUI</strong>
+      <br><sub>Server-Driven UI</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/network.png" width="40"/>
+      <br><strong>API</strong>
+      <br><sub>Microservices</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/bell.png" width="40"/>
+      <br><strong>Notify</strong>
+      <br><sub>Engagement Hub</sub>
+    </td>
+  </tr>
 </table>
 
 ---
