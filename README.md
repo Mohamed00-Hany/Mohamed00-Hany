@@ -1,71 +1,89 @@
-# Hi there, I'm Mohamed Hany! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-### 👨‍💻 Android Software Engineer | Building Scalable Mobile Apps
-
-I'm a performance-driven Android Engineer from **Cairo, Egypt**, passionate about **Clean Architecture**, **Jetpack Compose**, and **System Design**. currently building high-traffic features at **[4Sale International](https://q84sale.com/)**.
-
-- 🔭 I’m currently working on **Android 15 migrations & Modularization**
-- 🌱 I’m currently learning **Advanced Microservices for Mobile**
-- ⚡ Fun fact: I maintain apps with **99% crash-free rates** for millions of users!
-
+# Hey there! I'm Mohamed Hany <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### Android Software Engineer | Building Scalable Mobile Experiences
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hany-2b1966277)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mh4260160@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed00-Hany)
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed00-Hany&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed00-Hany&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed00-Hany&theme=radical&hide_border=true" alt="streak graph" />
-</div>
-
+## About Me
+Performance-driven **Android Software Engineer** based in **Cairo, Egypt** with **2+ years** of experience scaling high-traffic applications.
+Specialized in **Jetpack Compose**, **Clean Architecture**, and **Modularization**. I currently help maintain apps used by **millions of users** with **99% crash-free stability** and handle over **500M listings**.
+- Currently working at **4Sale International**
+- Passionate about **System Design** and **App Modernization**
+- Recently migrated a massive codebase to **Android 15**
 ---
-
-## 🛠 Tools & Technologies
-
-<div align="center">
-
-**Languages**<br>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
-<br><br>
-
-**Android Modern Stack**<br>
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Hilt-2C2C2C?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
-<br><br>
-
-**Tools & Platform**<br>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-</div>
-
+## Tech Stack
+### Languages & Core
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Android & Architecture
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+### Data & Backend
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Retrofit](https://img.shields.io/badge/Retrofit-000000?style=for-the-badge&logo=square&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ---
-
-## 📫 Connect with Me
-
-<div align="center">
-<a href="https://www.linkedin.com/in/mohamed-hany-2b1966277" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:mh4260160@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-</div>
-
+## Key Achievements
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/rocket--v1.png" width="40"/>
+      <br><strong>99%</strong>
+      <br><sub>Crash-free Sessions</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/database.png" width="40"/>
+      <br><strong>500M+</strong>
+      <br><sub>Listings Managed</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40"/>
+      <br><strong>Android 15</strong>
+      <br><sub>Migration Complete</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/module.png" width="40"/>
+      <br><strong>Modular</strong>
+      <br><sub>Hybrid Architecture</sub>
+    </td>
+  </tr>
+</table>
+---
+## What I Bring to the Table
+- **Architecture & Design**: deeply skilled in Clean Architecture, MVVM, and Multi-module systems
+- **Modern UI**: Expert in Jetpack Compose, Theming, and Server-Driven UI
+- **Performance**: Experience with app vitals, startup time optimization, and memory management
+- **DevOps**: Automated deployment (Firebase App Distribution), CI/CD pipelines
+- **Scalability**: Building dynamic features like Booking Systems and Microservices integration
+---
+## Career Highlights
+| Impact | Achievement |
+|:------:|-------------|
+| **99%** | Crash-free stability achieved in a high-traffic environment |
+| **New Feature** | Built a fully dynamic **Booking System** for cars, properties, and services |
+| **Revival** | Significantly enhanced and revived the **Q8Car** application |
+| **Dynamic** | Implemented Server-Driven UI for banners and category shortcuts |
+| **Optimization** | Refactored user database logic for favorites & following features |
+| **Quality** | Wrote comprehensive unit tests to ensure code reliability |
+| **Updates** | Migrated core mobile infrastructure to support **Android 15** |
+---
+## Let's Connect!
+I'm always open to discussing **Android development**, **architecture patterns**, or **collaboration opportunities**.
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed00-Hany&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/mohamed-hany-2b1966277">
+    <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed00-Hany&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+<p align="center">
+  <i>"Clean code always looks like it was written by someone who cares."</i> — Robert C. Martin
 </p>
