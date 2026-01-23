@@ -34,15 +34,17 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
 ### Architecture
 ![Clean Arch](https://img.shields.io/badge/Clean%20Arch-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 ![Modularization](https://img.shields.io/badge/Modularization-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Kotlin
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 
 ### Networking & Data
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
