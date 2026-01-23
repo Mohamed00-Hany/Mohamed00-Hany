@@ -31,15 +31,23 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 
-### Architecture & Data
+### Architecture
 ![Clean Arch](https://img.shields.io/badge/Clean%20Arch-000000?style=for-the-badge&logo=codeforces&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Modularization](https://img.shields.io/badge/Modularization-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Networking & Data
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Retrofit](https://img.shields.io/badge/Retrofit-499C54?style=for-the-badge&logo=square&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -132,5 +140,5 @@ I'm always open to discussing **Android development**, **architecture patterns**
   <img src="https://komarev.com/ghpvc/?username=Mohamed00-Hany&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 <p align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i> — Martin Fowler
+  <i>"Make it work, make it right, make it fast."</i> — Kent Beck
 </p>
