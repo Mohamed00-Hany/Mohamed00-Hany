@@ -75,19 +75,19 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
       <br><sub>Dynamic System</sub>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/cloud-sync.png" width="40"/>
-      <br><strong>SDUI</strong>
-      <br><sub>Server-Driven UI</sub>
+      <img src="https://img.icons8.com/color/48/000000/appointment-reminders.png" width="40"/>
+      <br><strong>Notifications</strong>
+      <br><sub>User Engagement</sub>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/network.png" width="40"/>
-      <br><strong>API</strong>
-      <br><sub>Microservices</sub>
+      <img src="https://img.icons8.com/color/48/000000/test-tube.png" width="40"/>
+      <br><strong>Unit Tests</strong>
+      <br><sub>Quality Assurance</sub>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/bell.png" width="40"/>
-      <br><strong>Notify</strong>
-      <br><sub>Engagement Hub</sub>
+      <img src="https://img.icons8.com/color/48/000000/design.png" width="40"/>
+      <br><strong>Compose</strong>
+      <br><sub>Modern UI</sub>
     </td>
   </tr>
 </table>
@@ -95,8 +95,9 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
 ---
 
 ## Skill Set
-- **System Design**: Experience integrating **Microservices** and designing scalable **Booking Systems**.
-- **Modern Android**: Deep expertise in **Jetpack Compose**, **State Management**, and **Server-Driven UI**.
+
+- **System Design**: Experience designing scalable **Booking Systems** for cars, properties, and services.
+- **Modern Android**: Deep expertise in **Jetpack Compose**, **State Management**, and **Dynamic UI**.
 - **Code Quality**: Strong advocate for **Clean Architecture**, **SOLID Principles**, and **Unit Testing**.
 - **Performance**: Skilled in analyzing **App Vitals** to reduce startup time and memory footprint.
 
@@ -109,7 +110,7 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
 | **Scalability** | Engineered a fully dynamic **Booking System** for cars & properties |
 | **New Feature** | Developed a granular **Notification Center** with user preferences |
 | **Revival** | Revived the **Q8Car** app with a modern tech stack upgrade |
-| **Dynamic** | Implemented **Server-Driven UI** for configurable banners |
+| **Dynamic** | Implemented **Dynamic Banners** for configurable promotions |
 | **Optimization** | Refactored database logic for **Favorites & Following** lists |
 | **Stability** | Maintained **99% crash-free rate** in a high-traffic environment |
 
