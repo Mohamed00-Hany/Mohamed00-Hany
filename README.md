@@ -29,17 +29,20 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
 ### Android Ecosystem
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Navigation](https://img.shields.io/badge/Navigation-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Lifecycle](https://img.shields.io/badge/Lifecycle-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Architecture
 ![Clean Arch](https://img.shields.io/badge/Clean%20Arch-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 ![Modularization](https://img.shields.io/badge/Modularization-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Kotlin
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![KSP](https://img.shields.io/badge/KSP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Serialization](https://img.shields.io/badge/Serialization-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Networking & Data
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
@@ -63,9 +66,11 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
       <br><sub>Crash-free Sessions</sub>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/google-play.png" width="40"/>
-      <br><strong>Millions</strong>
-      <br><sub>Active Users Served</sub>
+      <a href="https://play.google.com/store/apps/details?id=com.forsale">
+        <img src="https://img.icons8.com/color/48/000000/google-play.png" width="40"/>
+        <br><strong>Millions</strong>
+        <br><sub>Active Users Served</sub>
+      </a>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40"/>
@@ -80,24 +85,16 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/car.png" width="40"/>
-      <br><strong>Q8Car</strong>
-      <br><sub>App Revival</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/database.png" width="40"/>
-      <br><strong>Database</strong>
-      <br><sub>Optimization</sub>
+      <a href="https://play.google.com/store/apps/details?id=com.q8car">
+        <img src="https://img.icons8.com/color/48/000000/car.png" width="40"/>
+        <br><strong>Q8Car</strong>
+        <br><sub>App Revival</sub>
+      </a>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/test-tube.png" width="40"/>
       <br><strong>Unit Tests</strong>
       <br><sub>Quality Assurance</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/banner.png" width="40"/>
-      <br><strong>Banners</strong>
-      <br><sub>Dynamic UI</sub>
     </td>
   </tr>
 </table>
