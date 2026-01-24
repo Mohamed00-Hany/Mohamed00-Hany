@@ -2,9 +2,6 @@
 
 ### Android Software Engineer II | Engineering Scalable Mobile Solutions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hany-2b1966277)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mh4260160@gmail.com)
-
 ---
 
 ## About Me
@@ -118,7 +115,10 @@ I'm always open to discussing **Android development**, **architecture patterns**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-hany-2b1966277">
-    <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mh4260160@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
