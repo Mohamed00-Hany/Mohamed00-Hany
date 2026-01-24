@@ -10,8 +10,8 @@
 
 ## About Me
 
-I am a product-focused **Android Engineer** based in **Cairo, Egypt**, dedicated to building robust applications that serve **millions of users**.
-With a strong foundation in **Computer Science** and **System Design**, I specialize in transforming complex business requirements into clean, maintainable, and high-performance code.
+I'm an **Android Engineer** based in **Cairo, Egypt**, passionate about crafting high-quality mobile experiences that scale to **millions of users**.
+With **2+ years** of hands-on experience and a solid foundation in **Computer Science**, I turn complex requirements into **clean**, **maintainable**, and **high-performance** code.
 
 - 🔭 Currently optimizing core infrastructure at **4Sale International**
 - 📱 Migrated legacy systems to **Android 15** & **Hybrid Modular Architecture**
@@ -29,6 +29,7 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
 ### Android Ecosystem
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Navigation](https://img.shields.io/badge/Navigation-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Lifecycle](https://img.shields.io/badge/Lifecycle-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -84,8 +85,8 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/module.png" width="40"/>
-      <br><strong>Modular</strong>
-      <br><sub>Hybrid Architecture</sub>
+      <br><strong>Multi-Module</strong>
+      <br><sub>Architecture Migration</sub>
     </td>
   </tr>
 </table>
@@ -130,5 +131,5 @@ I'm always open to discussing **Android development**, **architecture patterns**
   <img src="https://komarev.com/ghpvc/?username=Mohamed00-Hany&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 <p align="center">
-  <i>"Make it work, make it right, make it fast."</i> — Kent Beck
+  <i>"Simplicity is the soul of efficiency."</i> — Austin Freeman
 </p>
