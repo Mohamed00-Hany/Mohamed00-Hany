@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hany-2b1966277)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mh4260160@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed00-Hany)
 
 ---
 
@@ -131,5 +130,5 @@ I'm always open to discussing **Android development**, **architecture patterns**
   <img src="https://komarev.com/ghpvc/?username=Mohamed00-Hany&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 <p align="center">
-  <i>"Simplicity is the soul of efficiency."</i> — Austin Freeman
+  <i>"Good architecture makes the system easy to understand, easy to develop, easy to maintain, and easy to deploy."</i> — Robert C. Martin
 </p>
