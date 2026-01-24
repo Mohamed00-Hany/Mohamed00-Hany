@@ -40,9 +40,6 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
 ### Kotlin
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-![KSP](https://img.shields.io/badge/KSP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Serialization](https://img.shields.io/badge/Serialization-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Networking & Data
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
@@ -66,13 +63,6 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
       <br><sub>Crash-free Sessions</sub>
     </td>
     <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.forsale">
-        <img src="https://img.icons8.com/color/48/000000/google-play.png" width="40"/>
-        <br><strong>Millions</strong>
-        <br><sub>Active Users Served</sub>
-      </a>
-    </td>
-    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40"/>
       <br><strong>Android 15</strong>
       <br><sub>Migration Complete</sub>
@@ -82,19 +72,20 @@ With a strong foundation in **Computer Science** and **System Design**, I specia
       <br><strong>Booking</strong>
       <br><sub>Dynamic System</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.q8car">
-        <img src="https://img.icons8.com/color/48/000000/car.png" width="40"/>
-        <br><strong>Q8Car</strong>
-        <br><sub>App Revival</sub>
-      </a>
+      <img src="https://img.icons8.com/color/48/000000/car.png" width="40"/>
+      <br><strong>Q8Car</strong>
+      <br><sub>App Revival</sub>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/test-tube.png" width="40"/>
       <br><strong>Unit Tests</strong>
       <br><sub>Quality Assurance</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/module.png" width="40"/>
+      <br><strong>Modular</strong>
+      <br><sub>Hybrid Architecture</sub>
     </td>
   </tr>
 </table>
