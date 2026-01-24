@@ -37,10 +37,6 @@ With **2+ years** of hands-on experience and a solid foundation in **Computer Sc
 ![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Modularization](https://img.shields.io/badge/Modularization-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Kotlin
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
 ### Networking & Data
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -94,10 +90,11 @@ With **2+ years** of hands-on experience and a solid foundation in **Computer Sc
 
 ## Skill Set
 
-- **System Design**: Experience designing scalable **Booking Systems** for cars, properties, and services.
-- **Modern Android**: Deep expertise in **Jetpack Compose**, **State Management**, and **Dynamic UI**.
-- **Code Quality**: Strong advocate for **Clean Architecture**, **SOLID Principles**, and **Unit Testing**.
-- **Performance**: Skilled in analyzing **App Vitals** to reduce startup time and memory footprint.
+- **Architecture & Design**: Clean Architecture, MVVM, Multi-module systems, and **SOLID Principles**.
+- **Modern Android**: Expert in **Jetpack Compose**, **Navigation Components**, and **State Management** with Flows.
+- **Backend Integration**: RESTful APIs, **Microservices** integration, and real-time data with **Firebase**.
+- **Code Quality**: Strong advocate for **Unit Testing** (JUnit, Mockk), code reviews, and best practices.
+- **Performance**: Skilled in **App Vitals** analysis, startup optimization, and memory management.
 
 ---
 
@@ -105,12 +102,14 @@ With **2+ years** of hands-on experience and a solid foundation in **Computer Sc
 
 | Impact | Achievement |
 |:------:|-------------|
-| **Scalability** | Engineered a fully dynamic **Booking System** for cars & properties |
-| **New Feature** | Developed a granular **Notification Center** with user preferences |
-| **Revival** | Revived the **Q8Car** app with a modern tech stack upgrade |
-| **Dynamic** | Implemented **Dynamic Banners** for configurable promotions |
-| **Optimization** | Refactored database logic for **Favorites & Following** lists |
-| **Stability** | Maintained **99% crash-free rate** in a high-traffic environment |
+| **Scalability** | Engineered a fully dynamic **Booking System** controlled via remote configuration |
+| **User Engagement** | Built **Notification Center** with enable, disable, pause, and per-category settings |
+| **Revival** | Revived **Q8Car** app using Android **product flavors** and modern tech stack |
+| **Dynamic UI** | Implemented **Dynamic Banners** with phone, WhatsApp, and deep link actions |
+| **Microservices** | Developed client integration for **service provider listings** with pricing |
+| **Optimization** | Refactored database schema for **Favorites & Following** into dedicated tables |
+| **Automation** | Streamlined releases with **Firebase App Distribution** and Play Store deployment |
+| **Stability** | Maintained **99% crash-free rate** resolving critical live issues |
 
 ---
 
