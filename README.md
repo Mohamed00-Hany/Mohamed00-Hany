@@ -92,7 +92,7 @@ With **2+ years** of hands-on experience and a solid foundation in **Computer Sc
 
 - **Architecture & Design**: Clean Architecture, MVVM, Multi-module systems, and **SOLID Principles**.
 - **Modern Android**: Expert in **Jetpack Compose**, **Navigation Components**, and **State Management** with Flows.
-- **Backend Integration**: RESTful APIs, **Microservices** integration, and real-time data with **Firebase**.
+- **Async & Data**: Proficient in **Coroutines**, **Flows**, **Retrofit**, **Room**, and **Firebase**.
 - **Code Quality**: Strong advocate for **Unit Testing** (JUnit, Mockk), code reviews, and best practices.
 - **Performance**: Skilled in **App Vitals** analysis, startup optimization, and memory management.
 
@@ -106,7 +106,6 @@ With **2+ years** of hands-on experience and a solid foundation in **Computer Sc
 | **User Engagement** | Built **Notification Center** with enable, disable, pause, and per-category settings |
 | **Revival** | Revived **Q8Car** app using Android **product flavors** and modern tech stack |
 | **Dynamic UI** | Implemented **Dynamic Banners** with phone, WhatsApp, and deep link actions |
-| **Microservices** | Developed client integration for **service provider listings** with pricing |
 | **Optimization** | Refactored database schema for **Favorites & Following** into dedicated tables |
 | **Automation** | Streamlined releases with **Firebase App Distribution** and Play Store deployment |
 | **Stability** | Maintained **99% crash-free rate** resolving critical live issues |
