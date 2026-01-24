@@ -1,6 +1,6 @@
 # Hey there! I'm Mohamed Hany <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### Android Software Engineer II | Engineering Scalable Mobile Solutions
+### Android Software Engineer II | Performance • Architecture • Scale
 
 ---
 
