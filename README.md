@@ -123,9 +123,9 @@ object Mohamed : AndroidEngineer() {
 <td width="50%">
 
 **🏗️ Architecture & Design**
-- Building scalable multi-module systems
+- Building multi-module systems
 - Applying SOLID & Clean Architecture
-- Designing maintainable codebases
+- Designing maintainable code
 
 </td>
 <td width="50%">
