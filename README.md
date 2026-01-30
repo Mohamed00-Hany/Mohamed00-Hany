@@ -33,26 +33,75 @@ object Mohamed : AndroidEngineer() {
 }
 ```
 
-<br>
+<h2 align="center">🚀 Achievements @ 4Sale</h2>
 
-<h2 align="center">📈 Impact & Numbers</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/99%25-Crash--Free_Rate-58A6FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/500M+-Listings_Managed-58A6FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Android_15-Platform_Migration-58A6FF?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+<br>
 
 <table align="center">
 <tr>
 <td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/guarantee.png" width="55"/><br>
-<strong>99%</strong><br>
-<sub>Crash-Free Rate</sub>
+<img src="https://img.icons8.com/3d-fluency/94/calendar.png" width="55"/><br>
+<strong>Booking System</strong><br>
+<sub>Dynamic & configurable</sub><br>
+<sub>Cars • Properties • Services</sub>
 </td>
 <td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/stack-of-paper.png" width="55"/><br>
-<strong>500M+</strong><br>
-<sub>Listings Managed</sub>
+<img src="https://img.icons8.com/3d-fluency/94/bell.png" width="55"/><br>
+<strong>Notification Center</strong><br>
+<sub>Full user control</sub><br>
+<sub>Enable • Disable • Pause</sub>
 </td>
 <td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/android-os.png" width="55"/><br>
-<strong>Android 15</strong><br>
-<sub>Platform Migration</sub>
+<img src="https://img.icons8.com/3d-fluency/94/car.png" width="55"/><br>
+<strong>Q8Car Revival</strong><br>
+<sub>Product flavors</sub><br>
+<sub>Shared codebase</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/3d-fluency/94/module.png" width="55"/><br>
+<strong>Modularization</strong><br>
+<sub>Hybrid architecture</sub><br>
+<sub>Faster builds</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/3d-fluency/94/commercial.png" width="55"/><br>
+<strong>Dynamic Banners</strong><br>
+<sub>Lead generation</sub><br>
+<sub>Phone • WhatsApp • Links</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/3d-fluency/94/test-tube.png" width="55"/><br>
+<strong>Unit Testing</strong><br>
+<sub>JUnit & MockK</sub><br>
+<sub>Business logic coverage</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/3d-fluency/94/database.png" width="55"/><br>
+<strong>Database Refactor</strong><br>
+<sub>Favorites & Following</sub><br>
+<sub>Dedicated tables</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="55"/><br>
+<strong>CI/CD Automation</strong><br>
+<sub>Firebase Distribution</sub><br>
+<sub>Play Store releases</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/3d-fluency/94/code.png" width="55"/><br>
+<strong>Feature Flags</strong><br>
+<sub>Remote configuration</sub><br>
+<sub>Safe rollouts</sub>
 </td>
 </tr>
 </table>
@@ -97,73 +146,6 @@ object Mohamed : AndroidEngineer() {
   <img src="https://img.shields.io/badge/MockK-FF6B6B?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-<br>
-
-<h2 align="center">🏆 What I've Built @ 4Sale</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/calendar.png" width="55"/><br>
-<strong>Booking System</strong><br>
-<sub>Dynamic & configurable</sub><br>
-<sub>Cars • Properties • Services</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/bell.png" width="55"/><br>
-<strong>Notification Center</strong><br>
-<sub>Full user control</sub><br>
-<sub>Enable • Disable • Pause</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/android-os.png" width="55"/><br>
-<strong>Android 15 Migration</strong><br>
-<sub>Edge-to-edge UI</sub><br>
-<sub>Latest platform features</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/car.png" width="55"/><br>
-<strong>Q8Car Revival</strong><br>
-<sub>Product flavors</sub><br>
-<sub>Shared codebase</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/module.png" width="55"/><br>
-<strong>Modularization</strong><br>
-<sub>Hybrid architecture</sub><br>
-<sub>Faster builds</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/commercial.png" width="55"/><br>
-<strong>Dynamic Banners</strong><br>
-<sub>Lead generation</sub><br>
-<sub>Phone • WhatsApp • Links</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/test-tube.png" width="55"/><br>
-<strong>Unit Testing</strong><br>
-<sub>JUnit & MockK</sub><br>
-<sub>Business logic coverage</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/database.png" width="55"/><br>
-<strong>Database Refactor</strong><br>
-<sub>Favorites & Following</sub><br>
-<sub>Dedicated tables</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="55"/><br>
-<strong>CI/CD Automation</strong><br>
-<sub>Firebase Distribution</sub><br>
-<sub>Play Store releases</sub>
-</td>
-</tr>
-</table>
 
 <br>
 
