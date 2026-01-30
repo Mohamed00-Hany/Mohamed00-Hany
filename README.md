@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mohamed%20Hany&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Cairo,%20Egypt%20🇪🇬&descSize=20&descAlignY=55&descColor=8B949E"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hany-2b1966277"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mh4260160@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Mohamed00-Hany&color=58A6FF&style=for-the-badge&label=VISITORS" />
 </p>
 
@@ -112,6 +110,7 @@ object Mohamed : AndroidEngineer() {
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/MockK-FF6B6B?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 </p>
 
 <br>
@@ -171,6 +170,11 @@ object Mohamed : AndroidEngineer() {
 
 <p align="center">
 <em>Open to discussing Android architecture, clean code, or collaboration opportunities</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-hany-2b1966277"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mh4260160@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=footer"/>
