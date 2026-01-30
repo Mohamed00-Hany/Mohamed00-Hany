@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mohamed%20Hany&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Android%20Engineer%20•%20Cairo,%20Egypt%20🇪🇬&descSize=20&descAlignY=55&descColor=8B949E"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mohamed%20Hany&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Cairo,%20Egypt%20🇪🇬&descSize=20&descAlignY=55&descColor=8B949E"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hany-2b1966277"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mh4260160@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Mohamed00-Hany&color=58A6FF&style=flat-square&label=visitors" />
+  <a href="https://www.linkedin.com/in/mohamed-hany-2b1966277"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mh4260160@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Mohamed00-Hany&color=58A6FF&style=for-the-badge&label=VISITORS" />
 </p>
 
 <br>
@@ -39,59 +39,51 @@ object Mohamed : AndroidEngineer() {
 <td align="center" width="200">
 <img src="https://img.icons8.com/3d-fluency/94/guarantee.png" width="55"/><br>
 <strong>99%</strong><br>
-<sub>Crash-Free Rate</sub><br>
-<sub><em>@ 4Sale</em></sub>
+<sub>Crash-Free Rate</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/3d-fluency/94/android-os.png" width="55"/><br>
 <strong>Android 15</strong><br>
-<sub>Platform Migration</sub><br>
-<sub><em>@ 4Sale</em></sub>
+<sub>Platform Migration</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/3d-fluency/94/calendar.png" width="55"/><br>
 <strong>Booking System</strong><br>
-<sub>Dynamic & configurable</sub><br>
-<sub><em>@ 4Sale</em></sub>
+<sub>Dynamic & configurable</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/3d-fluency/94/bell.png" width="55"/><br>
 <strong>Notification Center</strong><br>
-<sub>Full user control</sub><br>
-<sub><em>@ 4Sale</em></sub>
+<sub>Full user control</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="200">
 <img src="https://img.icons8.com/3d-fluency/94/car.png" width="55"/><br>
 <strong>Q8Car Revival</strong><br>
-<sub>Product flavors</sub><br>
-<sub><em>@ 4Sale</em></sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/module.png" width="55"/><br>
-<strong>Modularization</strong><br>
-<sub>Hybrid architecture</sub><br>
-<sub><em>@ 4Sale</em></sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/test-tube.png" width="55"/><br>
-<strong>Unit Testing</strong><br>
-<sub>JUnit & MockK</sub><br>
-<sub><em>@ 4Sale</em></sub>
+<sub>Product flavors</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="55"/><br>
 <strong>CI/CD Automation</strong><br>
-<sub>Firebase Distribution</sub><br>
-<sub><em>@ 4Sale</em></sub>
+<sub>Firebase Distribution integration</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/3d-fluency/94/module.png" width="55"/><br>
+<strong>Modularization</strong><br>
+<sub>Hybrid architecture</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/3d-fluency/94/test-tube.png" width="55"/><br>
+<strong>Unit Testing</strong><br>
+<sub>JUnit & MockK</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-<h2 align="center">🛠️ Skills</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -132,17 +124,46 @@ object Mohamed : AndroidEngineer() {
 
 <br>
 
-<h2 align="center">🎓 Background</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
-<strong>Bachelor's in Computer Science</strong> • October 6 University • GPA: <strong>3.63/4.00</strong> (Excellent)
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ITI-Mobile_Development-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Route-Android_Diploma-7F52FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Route-Programming_Fundamentals-3DDC84?style=flat-square" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="80">
+<img src="https://img.icons8.com/3d-fluency/94/marker.png" width="45"/>
+</td>
+<td>
+<strong>Location</strong><br>
+<sub>Cairo, Egypt 🇪🇬</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://img.icons8.com/3d-fluency/94/time-machine.png" width="45"/>
+</td>
+<td>
+<strong>Experience</strong><br>
+<sub>2+ Years in Android Development</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://img.icons8.com/3d-fluency/94/office-building.png" width="45"/>
+</td>
+<td>
+<strong>Currently</strong><br>
+<sub>Software Engineer II @ 4Sale International</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://img.icons8.com/3d-fluency/94/graduation-cap.png" width="45"/>
+</td>
+<td>
+<strong>Education</strong><br>
+<sub>Bachelor's in Computer Science • October 6 University</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
