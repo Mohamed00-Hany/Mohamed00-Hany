@@ -116,6 +116,49 @@ object Mohamed : AndroidEngineer() {
 
 <br>
 
+<h2 align="center">💡 What I Bring to the Table</h2>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**🏗️ Architecture & Design**
+- Building scalable multi-module systems
+- Applying SOLID & Clean Architecture
+- Designing maintainable codebases
+
+</td>
+<td width="50%">
+
+**⚡ Performance & Stability**
+- Achieving high crash-free rates
+- Optimizing app performance
+- Implementing robust error handling
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🧪 Testing & Quality**
+- Writing comprehensive unit tests
+- Ensuring code coverage & reliability
+- Debugging & root cause analysis
+
+</td>
+<td width="50%">
+
+**🚀 Delivery & Collaboration**
+- Shipping features with confidence
+- Safe rollouts with feature flags
+- Code reviews & documentation
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <h2 align="center">🏆 Featured Work</h2>
 
 <table align="center">
