@@ -45,15 +45,6 @@ object Mohamed : AndroidEngineer() {
 </tr>
 <tr>
 <td align="center" width="80">
-<img src="https://img.icons8.com/3d-fluency/94/calendar.png" width="45"/>
-</td>
-<td>
-<strong>Experience</strong><br>
-<sub>2+ Years in Android Development</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="80">
 <img src="https://img.icons8.com/3d-fluency/94/briefcase.png" width="45"/>
 </td>
 <td>
