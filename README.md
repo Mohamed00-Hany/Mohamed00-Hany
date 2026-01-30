@@ -1,131 +1,78 @@
-# Hey there! I'm Mohamed Hany <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-### Android Software Engineer II | Performance • Architecture • Scale
-
----
-
-## About Me
-
-I'm an **Android Engineer** based in **Cairo, Egypt**, passionate about crafting high-quality mobile experiences that scale to **millions of users**.
-With **2+ years** of hands-on experience and a solid foundation in **Computer Science**, I turn complex requirements into **clean**, **maintainable**, and **high-performance** code.
-
-- 🔭 Currently optimizing core infrastructure at **4Sale International**
-- 📱 Migrated legacy systems to **Android 15** & **Hybrid Modular Architecture**
-- ⚡ Obsessed with **App Vitals**, **Crash-free Rates**, and **User Experience**
-
----
-
-## Tech Stack
-
-### Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Android Ecosystem
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Navigation](https://img.shields.io/badge/Navigation-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Lifecycle](https://img.shields.io/badge/Lifecycle-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Architecture
-![Clean Arch](https://img.shields.io/badge/Clean%20Arch-000000?style=for-the-badge&logo=codeforces&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Modularization](https://img.shields.io/badge/Modularization-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Networking & Data
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
-![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
----
-
-## Key Achievements
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/rocket--v1.png" width="40"/>
-      <br><strong>99%</strong>
-      <br><sub>Crash-free Sessions</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40"/>
-      <br><strong>Android 15</strong>
-      <br><sub>Migration Complete</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/calendar--v1.png" width="40"/>
-      <br><strong>Booking</strong>
-      <br><sub>Dynamic System</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/car.png" width="40"/>
-      <br><strong>Q8Car</strong>
-      <br><sub>App Revival</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/test-tube.png" width="40"/>
-      <br><strong>Unit Tests</strong>
-      <br><sub>Quality Assurance</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/module.png" width="40"/>
-      <br><strong>Multi-Module</strong>
-      <br><sub>Architecture Migration</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## Skill Set
-
-- **Architecture & Design**: Clean Architecture, MVVM, Multi-module systems, and **SOLID Principles**.
-- **Modern Android**: Expert in **Jetpack Compose**, **Navigation Components**, and **State Management** with Flows.
-- **Async & Data**: Proficient in **Coroutines**, **Flows**, **Retrofit**, **Room**, and **Firebase**.
-- **Code Quality**: Strong advocate for **Unit Testing** (JUnit, Mockk), code reviews, and best practices.
-- **Performance**: Skilled in **App Vitals** analysis, startup optimization, and memory management.
-
----
-
-## Notable Highlights
-
-| Impact | Achievement |
-|:------:|-------------|
-| **Scalability** | Engineered a fully dynamic **Booking System** controlled via remote configuration |
-| **User Engagement** | Built **Notification Center** with enable, disable, pause, and per-category settings |
-| **Revival** | Revived **Q8Car** app using Android **product flavors** and modern tech stack |
-| **Dynamic UI** | Implemented **Dynamic Banners** with phone, WhatsApp, and deep link actions |
-| **Optimization** | Refactored database schema for **Favorites & Following** into dedicated tables |
-| **Automation** | Streamlined releases with **Firebase App Distribution** and Play Store deployment |
-| **Stability** | Maintained **99% crash-free rate** resolving critical live issues |
-
----
-
-## Let's Connect!
-
-I'm always open to discussing **Android development**, **architecture patterns**, or **collaboration opportunities**.
+<h1 align="center">Mohamed Hany</h1>
+<h3 align="center">Android Engineer • Cairo, Egypt</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hany-2b1966277">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mh4260160@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/mohamed-hany-2b1966277"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mh4260160@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### About
+
+I'm an Android Engineer with **2+ years** of experience building high-quality mobile applications that serve **millions of users**. Currently at **4Sale International**, I focus on clean architecture, performance optimization, and shipping reliable code.
+
+I care deeply about writing **maintainable code**, improving **app stability**, and delivering great **user experiences**. I believe in simple solutions to complex problems.
+
+---
+
+### What I Do
+
+- **Architecture** — Clean Architecture, MVVM, multi-module systems
+- **Modern Android** — Jetpack Compose, Navigation, Coroutines & Flows
+- **Quality** — Unit testing, crash-free rates, app vitals monitoring
+- **Tooling** — Retrofit, Room, Firebase, Hilt
+
+---
+
+### At 4Sale
+
+Some things I've worked on:
+
+| Area | Work |
+|------|------|
+| **Booking System** | Built a dynamic booking flow controlled via remote configuration |
+| **Platform Migration** | Migrated legacy systems to Android 15 & hybrid modular architecture |
+| **Q8Car Revival** | Revived companion app using product flavors and updated tech stack |
+| **Stability** | Maintained 99% crash-free sessions through proactive issue resolution |
+| **Notification Center** | Implemented user controls for enable, disable, pause, and category settings |
+
+---
+
+### Tech
+
+```
+Languages        Kotlin • Java • C++
+UI               Jetpack Compose • Material Design
+Architecture     Clean Architecture • MVVM • Multi-module
+Async            Coroutines • Flows
+Data             Retrofit • Room • Firebase
+DI               Hilt/Dagger
+Testing          JUnit • MockK • Espresso
+Tools            Git • Gradle • Jira
+```
+
+---
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed00-Hany&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed00-Hany&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" />
+</p>
+
+---
+
+### Let's Talk
+
+I'm always interested in discussing Android development, architecture decisions, or potential collaborations. Feel free to reach out.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed00-Hany&color=gray&style=flat&label=visitors" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed00-Hany&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-<p align="center">
-  <i>"Good architecture makes the system easy to understand, easy to develop, easy to maintain, and easy to deploy."</i> — Robert C. Martin
+  <em>"Simplicity is the ultimate sophistication."</em>
 </p>
