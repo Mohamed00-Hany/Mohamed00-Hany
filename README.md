@@ -33,13 +33,24 @@ object Mohamed : AndroidEngineer() {
 }
 ```
 
-<h2 align="center">🚀 Achievements @ 4Sale</h2>
+<h2 align="center">🚀 Achievements</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/99%25-Crash--Free_Rate-58A6FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/500M+-Listings_Managed-58A6FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Android_15-Platform_Migration-58A6FF?style=for-the-badge&labelColor=0D1117" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/3d-fluency/94/guarantee.png" width="55"/><br>
+<strong>99%</strong><br>
+<sub>Crash-Free Rate</sub><br>
+<sub><em>@ 4Sale</em></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/3d-fluency/94/android-os.png" width="55"/><br>
+<strong>Android 15</strong><br>
+<sub>Platform Migration</sub><br>
+<sub><em>@ 4Sale</em></sub>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -201,10 +212,5 @@ object Mohamed : AndroidEngineer() {
   </a>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=Leonardo%20da%20Vinci" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=footer"/>
