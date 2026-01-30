@@ -9,23 +9,24 @@
 ```kotlin
 object Mohamed : AndroidEngineer() {
 
-    override val name = "Mohamed Hany"
-    override val role = "Software Engineer II @ 4Sale International"
-    override val experience = "2+ years"
-    
-    override val passion = listOf(
+    override val focus = listOf(
         "Clean Architecture",
-        "Jetpack Compose",
-        "Writing Testable Code",
-        "Building Scalable Apps"
+        "App Stability & Performance",
+        "Scalable Solutions"
     )
     
-    override fun dailyRoutine() = flowOf(
-        "☕ Coffee",
+    override val principles = mapOf(
+        "Code" to "Readable > Clever",
+        "Testing" to "Ship with Confidence",
+        "Architecture" to "Separation of Concerns"
+    )
+    
+    override fun approach() = flowOf(
+        "☕ Understand the Problem",
+        "📐 Design the Solution",
         "💻 Write Clean Code",
-        "🧪 Test Everything",
-        "🚀 Ship Features",
-        "🔁 Repeat"
+        "🧪 Test & Refine",
+        "🚀 Ship & Iterate"
     )
 }
 ```
