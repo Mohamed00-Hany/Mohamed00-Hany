@@ -34,7 +34,7 @@ object Mohamed : AndroidEngineer() {
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-<strong>Android Engineer</strong> based in <strong>Cairo, Egypt</strong> with <strong>2+ years</strong> of experience building production-ready mobile applications. Currently at <strong>4Sale International</strong>, I've contributed to achieving <strong>99% crash-free stability</strong>, led the <strong>Android 15 migration</strong>, and built features used by thousands of users daily.
+<strong>Android Engineer</strong> with <strong>2+ years</strong> of experience building production-ready mobile applications.
 </p>
 
 <p align="center">
