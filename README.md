@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mohamed%20Hany&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Android%20Engineer%20•%20Cairo,%20Egypt%20🇪🇬&descSize=20&descAlignY=55&descColor=8B949E"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hany-2b1966277"><img src="https://img.shields.io/badge/-Mohamed%20Hany-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mh4260160@gmail.com"><img src="https://img.shields.io/badge/-mh4260160@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Mohamed00-Hany"><img src="https://img.shields.io/badge/-Mohamed00--Hany-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-hany-2b1966277"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mh4260160@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Mohamed00-Hany&color=58A6FF&style=flat-square&label=visitors" />
 </p>
 
@@ -49,70 +48,43 @@ object Mohamed : AndroidEngineer() {
 <sub>Platform Migration</sub><br>
 <sub><em>@ 4Sale</em></sub>
 </td>
-</tr>
-</table>
-
-<br>
-
-<table align="center">
-<tr>
 <td align="center" width="200">
 <img src="https://img.icons8.com/3d-fluency/94/calendar.png" width="55"/><br>
 <strong>Booking System</strong><br>
 <sub>Dynamic & configurable</sub><br>
-<sub>Cars • Properties • Services</sub>
+<sub><em>@ 4Sale</em></sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/3d-fluency/94/bell.png" width="55"/><br>
 <strong>Notification Center</strong><br>
 <sub>Full user control</sub><br>
-<sub>Enable • Disable • Pause</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/car.png" width="55"/><br>
-<strong>Q8Car Revival</strong><br>
-<sub>Product flavors</sub><br>
-<sub>Shared codebase</sub>
+<sub><em>@ 4Sale</em></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="200">
+<img src="https://img.icons8.com/3d-fluency/94/car.png" width="55"/><br>
+<strong>Q8Car Revival</strong><br>
+<sub>Product flavors</sub><br>
+<sub><em>@ 4Sale</em></sub>
+</td>
+<td align="center" width="200">
 <img src="https://img.icons8.com/3d-fluency/94/module.png" width="55"/><br>
 <strong>Modularization</strong><br>
 <sub>Hybrid architecture</sub><br>
-<sub>Faster builds</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/commercial.png" width="55"/><br>
-<strong>Dynamic Banners</strong><br>
-<sub>Lead generation</sub><br>
-<sub>Phone • WhatsApp • Links</sub>
+<sub><em>@ 4Sale</em></sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/3d-fluency/94/test-tube.png" width="55"/><br>
 <strong>Unit Testing</strong><br>
 <sub>JUnit & MockK</sub><br>
-<sub>Business logic coverage</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/database.png" width="55"/><br>
-<strong>Database Refactor</strong><br>
-<sub>Favorites & Following</sub><br>
-<sub>Dedicated tables</sub>
+<sub><em>@ 4Sale</em></sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="55"/><br>
 <strong>CI/CD Automation</strong><br>
 <sub>Firebase Distribution</sub><br>
-<sub>Play Store releases</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/3d-fluency/94/code.png" width="55"/><br>
-<strong>Feature Flags</strong><br>
-<sub>Remote configuration</sub><br>
-<sub>Safe rollouts</sub>
+<sub><em>@ 4Sale</em></sub>
 </td>
 </tr>
 </table>
@@ -160,29 +132,6 @@ object Mohamed : AndroidEngineer() {
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed00-Hany&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&hide_title=false&card_width=400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed00-Hany&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=320" height="180"/>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed00-Hany&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&card_width=700" width="70%"/>
-</p>
-
-<br>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed00-Hany&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=20&margin-h=20" width="80%"/>
-</p>
-
-<br>
-
 <h2 align="center">🎓 Background</h2>
 
 <p align="center">
@@ -200,7 +149,7 @@ object Mohamed : AndroidEngineer() {
 <h2 align="center">💬 Let's Connect!</h2>
 
 <p align="center">
-<em>Open to discussing Android architecture, clean code, or your next big idea</em>
+<em>Open to discussing Android architecture, clean code, or collaboration opportunities</em>
 </p>
 
 <p align="center">
@@ -211,6 +160,5 @@ object Mohamed : AndroidEngineer() {
     <img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=footer"/>
