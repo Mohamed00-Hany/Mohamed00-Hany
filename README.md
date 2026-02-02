@@ -10,8 +10,8 @@
 object Mohamed : AndroidEngineer() {
 
     override val focus = listOf(
-        "Clean Architecture",
         "App Stability & Performance",
+        "Clean Architecture",
         "Scalable Solutions"
     )
     
